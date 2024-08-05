@@ -1,0 +1,5 @@
+name: ExitVehicles
+version: 1.0
+main: com.exitvehicles.Main
+api-version: 1.13
+author: Snon_S
